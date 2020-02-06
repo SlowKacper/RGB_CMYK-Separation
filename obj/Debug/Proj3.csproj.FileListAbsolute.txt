@@ -1,0 +1,11 @@
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\bin\Debug\Proj3.exe.config
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\bin\Debug\Proj3.exe
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\bin\Debug\Proj3.pdb
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.csprojAssemblyReference.cache
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.Form1.resources
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.Properties.Resources.resources
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.csproj.GenerateResource.cache
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.csproj.CoreCompileInputs.cache
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.exe
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.pdb
+C:\Kacper\STudia MINI\Semestr5\GK\Proj3\Proj3\obj\Debug\Proj3.Form2.resources
